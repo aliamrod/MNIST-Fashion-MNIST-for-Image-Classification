@@ -1,4 +1,4 @@
-# MNIST-Fashion-MNIST-for-Image-Classification
+# Fashion-MNIST-for-Image-Classification
 
 
 ##Introduction
